@@ -47,8 +47,8 @@ of this section is to tell you how to do that.
 
 Can be downloaded from https://doi.org/10.5281/zenodo.15428224.
 
-`city.tar.gz` contains the city environment and
-`forest3.tar.gz` contains the forest environment. Extract them and then modify the `drone.sh` script by:
+`City.tar.gz` contains the city environment and
+`Forest.tar.gz` contains the forest environment. Extract them and then modify the `drone.sh` script by:
 
 * setting the `CITY_BINARY_PATH` to `/your_location/simulator/CitySample/Binaries/Linux/CitySample`
 * setting the FOREST_BINARY_PATH to
